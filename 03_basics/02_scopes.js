@@ -52,7 +52,7 @@ function addone(num){
 
 
 
-addTwo(5)
+addTwo(5) // this method is not correct and will gie error 
 const addTwo = function(num){
     return num + 2
 }
